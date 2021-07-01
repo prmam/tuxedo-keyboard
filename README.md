@@ -170,13 +170,13 @@ sudo modprobe tuxedo_keyboard <params>
 ```
 
 ## color_left
-Set the color of the left Keyboard Side
+Set the color of the left Keyboard Side (entire keyboard for single-color keyboard)
 
 ## color_center
-Set the color of the left Keyboard Side
+Set the color of the center Keyboard Side
 
 ## color_right
-Set the color of the left Keyboard Side
+Set the color of the right Keyboard Side
 
 ## color_extra
 Set the color of the left Keyboard extra region (Only when is a supported keyboard)
